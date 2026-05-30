@@ -1,1 +1,3 @@
 # randomNum
+
+Hi! Test your luck with random number generator...
